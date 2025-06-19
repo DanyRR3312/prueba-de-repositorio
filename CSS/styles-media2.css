@@ -1,0 +1,28 @@
+@media (min-width: 769px) and (max-width: 992px) {
+    
+
+    .shop {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .product {
+        width: 42vw;
+    }
+
+    .card-me {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .item {
+        order: 1;
+    }
+
+    .card img {
+        border-radius: 16px 0 0 16px; 
+    }
+    
+}

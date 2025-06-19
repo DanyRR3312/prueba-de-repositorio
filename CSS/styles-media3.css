@@ -1,0 +1,67 @@
+@media (min-width: 992px) {
+
+    main {
+        margin-top: -4em;
+    }
+    
+    .bg-navbar {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .nav-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .header-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-content: center;
+        align-items: center;
+    }
+
+    .nav-container {
+        padding:4.75em;
+    }
+
+    .namepage {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 0;
+    }
+
+    .navegation {
+        margin-bottom: 0;
+        width: 22rem;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .shop {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .margin {
+        margin: 1em 1em;
+    }
+
+    .card-me {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .item {
+        order: 1;
+    }
+
+    .card img {
+        border-radius: 16px 0 0 16px; 
+    }
+    
+}

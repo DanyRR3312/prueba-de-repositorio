@@ -1,0 +1,19 @@
+@media (min-width: 576px) and (max-width: 768px) {
+    
+    .shop {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .product {
+        width: 41vw;
+    }
+
+    .media-product {
+        width: 100vw;
+    }
+
+    
+}
